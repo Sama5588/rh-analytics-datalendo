@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Projet RH Analytics – SQL (PostgreSQL)
 
 ## 👤 Contexte
@@ -177,3 +178,7 @@ Passionné de **Data & Business Intelligence**
 - Mise en place d’un **Data Warehouse RH**
 
 > Projet réalisé dans une logique professionnelle orientée **décision stratégique et performance organisationnelle**.
+=======
+# rh-analytics-datalendo
+Ce projet simule une mission concrète de Data Analyst SQL au sein de l’entreprise fictive DataLendo, réalisée pour le service des Ressources Humaines (RH).
+>>>>>>> b34700e3774d89c70ee7401214646236421c3d89
